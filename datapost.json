@@ -1,0 +1,19 @@
+{
+        "event_type_id": "4aa58748-a62b-4b31-b303-7f5f6e03d037",
+        "tourist_destination_id": "55ef5ba5-b5a7-482b-a513-85594ff99266",
+        "warning_level": "MEDIUM",
+        "time": "2021-01-01 08:00:01",
+        "tour_guide_id": "7b98446c-2ef1-4c10-9487-41e008cda203",
+        "camera_id": "7b98446c-2ef1-4c10-9487-41e008cda203",
+
+        "image":
+        {
+            "path": "files/q3MzVsuoJJqqBWIA0yqkiAXh2rBtV03zhJGpuqPZ.png",
+            "file_name": "abc.png"
+        },
+        "videos":
+        {
+            "path": "files/q3MzVsuoJJqqBWIA0yqkiAXh2rBtV03zhJGpuqPZ.png",
+            "file_name": "abc.png"
+        }
+}
